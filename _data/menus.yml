@@ -14,9 +14,6 @@
   url: /tags/
   external: false
   
-  -title: categories
-   url: /categories/
-   external: false
   
 # Example:
 # - title: github
