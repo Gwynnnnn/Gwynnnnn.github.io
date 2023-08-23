@@ -1,0 +1,41 @@
+---
+categories : post
+tags : swift
+date : 2023-08-23 
+
+---
+
+
+
+### String 순회 
+
+기존에는 
+
+```swift
+var lang = "swift"
+for char in lang.characters {
+  print("\(char)")
+}
+```
+
+이런식으로 string 객체를 character로 분리하였는데 
+
+최근 업데이트 이후
+
+
+
+```swift
+var lang = "swift"
+for char in lang {
+  print("\(char)")
+}
+```
+
+로 출력이 된다. 
+
+
+
+
+
+
+
