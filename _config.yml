@@ -9,7 +9,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: &&* # author name
+  name: \&\&\* # author name
   bio: >- # tell to the world
     IOS,Swift
   username: Gwynnnnn # general username
